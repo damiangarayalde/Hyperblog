@@ -1,0 +1,6 @@
+Esto es un archivo de texto plano 
+
+Aca vamos a probar diferentes consas con gitlab
+
+
+y tambien con Git seguramente
