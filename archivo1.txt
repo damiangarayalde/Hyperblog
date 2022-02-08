@@ -2,6 +2,7 @@ Esto es un archivo de texto plano
 
 Aca vamos a probar diferentes consas con gitlab
 
-Damian is 34 years old
 
 y tambien con Git seguramente
+
+Ahora arrancamos un nuevo hilo desde este pasado
